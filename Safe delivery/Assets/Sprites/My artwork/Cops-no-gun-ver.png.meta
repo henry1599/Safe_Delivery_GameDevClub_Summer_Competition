@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: c2827d2fdde85e044ba1568b46371f2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8359228889662423871
+    second: Cops-no-gun-ver_0
+  - first:
+      213: -3844093028873343411
+    second: Cops-no-gun-ver_1
+  - first:
+      213: 2983029057612974251
+    second: Cops-no-gun-ver_2
+  - first:
+      213: -2836266013308941693
+    second: Cops-no-gun-ver_3
+  - first:
+      213: -8197026646958254418
+    second: Cops-no-gun-ver_4
+  - first:
+      213: -309626604408613914
+    second: Cops-no-gun-ver_5
+  - first:
+      213: 5119362826136523844
+    second: Cops-no-gun-ver_6
+  - first:
+      213: -8117032737036382960
+    second: Cops-no-gun-ver_7
+  - first:
+      213: 4319686413611619680
+    second: Cops-no-gun-ver_8
+  - first:
+      213: -7726504064011574713
+    second: Cops-no-gun-ver_9
+  - first:
+      213: -7864454804481331087
+    second: Cops-no-gun-ver_10
+  - first:
+      213: -8131259548986898947
+    second: Cops-no-gun-ver_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 1483
+        height: 1357
+      alignment: 9
+      pivot: {x: 0.4959036, y: 0.06126616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330384d262f10470800000000000000
+      internalID: 8359228889662423871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_1
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2789
+        width: 1334
+        height: 1397
+      alignment: 9
+      pivot: {x: 0.5045541, y: 0.05208479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee272d1c907aac0800000000000000
+      internalID: -3844093028873343411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1456
+        width: 1046
+        height: 1045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba880b58f19d56920800000000000000
+      internalID: 2983029057612974251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_3
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1540
+        width: 775
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a053c861f83a8d0800000000000000
+      internalID: -2836266013308941693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 422
+        height: 464
+      alignment: 9
+      pivot: {x: 0.83110833, y: 0.8666019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea654adb1bf4e3e80800000000000000
+      internalID: -8197026646958254418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_5
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 765
+        width: 396
+        height: 452
+      alignment: 9
+      pivot: {x: 0.19317627, y: 0.8360134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d6376e3cf3bbf0800000000000000
+      internalID: -309626604408613914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_6
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 749
+        width: 358
+        height: 446
+      alignment: 9
+      pivot: {x: 0.7545439, y: 0.854155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441538ed51ab0740800000000000000
+      internalID: 5119362826136523844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_7
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 764
+        width: 443
+        height: 435
+      alignment: 9
+      pivot: {x: 0.1708742, y: 0.8351787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcab64bb18a5f80800000000000000
+      internalID: -8117032737036382960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 155
+        height: 498
+      alignment: 9
+      pivot: {x: 0.57838804, y: 0.8537722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d66018eb92fb30800000000000000
+      internalID: 4319686413611619680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 173
+        height: 470
+      alignment: 9
+      pivot: {x: 0.42976865, y: 0.83607006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426af49d71f5c490800000000000000
+      internalID: -7726504064011574713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_10
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 62
+        width: 139
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5437047, y: 0.85512173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b6c2e508dbd290800000000000000
+      internalID: -7864454804481331087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cops-no-gun-ver_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 156
+        height: 559
+      alignment: 9
+      pivot: {x: 0.42211288, y: 0.8477705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5022e7586f72f80800000000000000
+      internalID: -8131259548986898947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

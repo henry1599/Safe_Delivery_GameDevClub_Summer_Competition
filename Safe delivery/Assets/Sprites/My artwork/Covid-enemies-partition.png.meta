@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: c86f7dbc406f61a4a97c9a6959412f8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -789605765463990012
+    second: Covid-enemies-partition_0
+  - first:
+      213: 794462283421376320
+    second: Covid-enemies-partition_1
+  - first:
+      213: 4901796371050798415
+    second: Covid-enemies-partition_2
+  - first:
+      213: 7666878007837531897
+    second: Covid-enemies-partition_3
+  - first:
+      213: -7826880478862677606
+    second: Covid-enemies-partition_4
+  - first:
+      213: 3723660551186728745
+    second: Covid-enemies-partition_5
+  - first:
+      213: -2834164889585411389
+    second: Covid-enemies-partition_6
+  - first:
+      213: 7871407232814218423
+    second: Covid-enemies-partition_7
+  - first:
+      213: 8015842062914638800
+    second: Covid-enemies-partition_8
+  - first:
+      213: -5142849989406712355
+    second: Covid-enemies-partition_9
+  - first:
+      213: 9218902696800757494
+    second: Covid-enemies-partition_10
+  - first:
+      213: 3138034235873638367
+    second: Covid-enemies-partition_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Covid-enemies-partition_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7400
+        width: 2312
+        height: 2625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012be46db1ca05f0800000000000000
+      internalID: -789605765463990012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_1
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 6428
+        width: 2999
+        height: 3597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd6cecc3f760b00800000000000000
+      internalID: 794462283421376320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_2
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 9759
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d18c124dda60440800000000000000
+      internalID: 4901796371050798415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_3
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 9629
+        width: 377
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe19616de8366a60800000000000000
+      internalID: 7666878007837531897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_4
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 7126
+        width: 3825
+        height: 2074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9963fd4ca5516390800000000000000
+      internalID: -7826880478862677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4493
+        width: 1722
+        height: 2162
+      alignment: 9
+      pivot: {x: 0.1113444, y: 0.48654088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ce91ea891da330800000000000000
+      internalID: 3723660551186728745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_6
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 3898
+        width: 2250
+        height: 1862
+      alignment: 9
+      pivot: {x: 0.887979, y: 0.2655867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca90698c060ba8d0800000000000000
+      internalID: -2834164889585411389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_7
+      rect:
+        serializedVersion: 2
+        x: 6938
+        y: 3924
+        width: 1831
+        height: 1738
+      alignment: 9
+      pivot: {x: 0.19804965, y: 0.29071838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf45a7c2bdc3d60800000000000000
+      internalID: 7871407232814218423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1648
+        width: 2539
+        height: 1794
+      alignment: 9
+      pivot: {x: 0.5171906, y: 0.76762766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d359afe2edfd3f60800000000000000
+      internalID: 8015842062914638800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_9
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 971
+        width: 2213
+        height: 1390
+      alignment: 9
+      pivot: {x: 0.93391234, y: 0.45070133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9a40ce2de0a8b0800000000000000
+      internalID: -5142849989406712355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_10
+      rect:
+        serializedVersion: 2
+        x: 7336
+        y: 1006
+        width: 2022
+        height: 1536
+      alignment: 9
+      pivot: {x: 0.05388094, y: 0.08322501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f623bda82f10ff70800000000000000
+      internalID: 9218902696800757494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Covid-enemies-partition_11
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 0
+        width: 1097
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.4867365, y: 0.877902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73342f2898c8b20800000000000000
+      internalID: 3138034235873638367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
